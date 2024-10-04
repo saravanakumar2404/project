@@ -1,0 +1,12 @@
+@media screen and (max-width:425px){
+    .back h2{
+        padding-left: 40px;
+    }
+    .back .heading{
+    font-size: 60px;
+    text-align: center;
+    padding-top: 60px;
+    padding-left:25px;
+        
+    }
+}
